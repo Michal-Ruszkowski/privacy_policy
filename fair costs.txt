@@ -1,0 +1,36 @@
+Privacy Policy for "Fair Costs" Application
+
+Effective Date: 13.03.2024
+
+Fair Costs ("us", "we", or "our") operates the "Fair Costs" mobile application (hereinafter referred to as the "Service").
+
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+
+We do not collect any personally identifiable information about you unless you voluntarily provide it to us.
+Information Collection And Use
+
+The "Fair Costs" application does not collect any personally identifiable information. The only data collected and stored on the user's device includes:
+    Names of group members
+    Group name
+    Currency used
+    Expense details (amount, payer, participants)
+    Date of entry of expenses into the application
+
+Use of Data
+The data collected is solely used within the "Fair Costs" application for the following purposes:
+    To provide and maintain the Service
+    To calculate expenses and debts within the group
+    To allow users to manage and track shared expenses
+    To enhance user experience by providing personalized features
+
+Data Storage
+All data entered into the "Fair Costs" application is stored locally on the user's device. We do not store any data on external servers or databases.
+
+Security of Data
+The security of your data is important to us. We take reasonable precautions to protect the information collected through the Service. However, no method of transmission over the internet or method of electronic storage is completely secure. Therefore, while we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at michrusz89@gmail.com.
