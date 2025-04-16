@@ -1,12 +1,12 @@
-Privacy Policy for SpotHunter
+Privacy Policy for CheckPointRace
 
 Last Updated: 16.04.2025
 
-SpotHunter ("we", "our", "us") values your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our SpotHunter app.
+CheckPointRace ("we", "our", "us") values your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our CheckPointRace app.
 
 1. Collection of Personal Data
 
-The SpotHunter app allows users to use the app anonymously without requiring personal data such as email address or username. However, users have the option to register using an email address and can also provide a username if they wish to take advantage of additional features in the app.
+The CheckPointRace app allows users to use the app anonymously without requiring personal data such as email address or username. However, users have the option to register using an email address and can also provide a username if they wish to take advantage of additional features in the app.
 
 2. Data Required for the App to Function
 
@@ -20,7 +20,7 @@ The app requires access to your device's location and an internet connection to 
 
 4. Data Sharing
 
-We do not sell or share your personal data with third parties, except as required by law. Your data is used exclusively for the functioning of the SpotHunter app.
+We do not sell or share your personal data with third parties, except as required by law. Your data is used exclusively for the functioning of the CheckPointRace app.
 
 5. Data Storage
 
@@ -34,7 +34,7 @@ We take all necessary precautions to ensure the security of your data. Your data
 
 7. Consent for Location and Internet Access
 
-The SpotHunter app requires your consent to access your device’s location and to connect to the internet. You can change your privacy settings on your device at any time to limit the app's access to location or the internet.
+The CheckPointRace app requires your consent to access your device’s location and to connect to the internet. You can change your privacy settings on your device at any time to limit the app's access to location or the internet.
 
 8. Your Rights
 
