@@ -1,0 +1,38 @@
+Privacy Policy for "CountriesCheck" Application
+
+Effective Date: 10.09.2025
+
+The "CountriesCheck" application ("we", "us", or "our") operates the "CountriesCheck" mobile application (hereinafter referred to as the "Service").
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+We do not collect any personally identifiable information about you unless you voluntarily provide it to us.
+
+Information Collection And Use
+The "CountriesCheck" application does not collect any personally identifiable information. The only data stored on the user's device includes:
+- Countries marked as visited by the user
+- Selected application theme preference
+- Selected language preference
+
+Use of Data
+The data stored is solely used within the "CountriesCheck" application for the following purposes:
+- To provide and maintain the Service
+- To remember which countries the user has marked as visited
+- To display the application in the user's preferred theme and language
+- To calculate and display travel statistics based on visited countries data
+
+Data Processing
+Travel statistics (such as number of visited countries, percentage of world explored, etc.) are calculated in real-time based on your visited countries data. These statistics are not permanently stored but are computed each time you use the application.
+
+Data Storage
+All data is stored locally on the user's device only. We do not store any data on external servers, databases, or cloud services. Your travel data never leaves your device.
+
+No Account Required
+The "CountriesCheck" application does not require users to create accounts or provide any personal information. You can use all features of the application without registration.
+
+Security of Data
+The security of your data is important to us. We take reasonable precautions to protect the information stored through the Service. However, no method of transmission over the internet or method of electronic storage is completely secure. Therefore, while we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at michrusz89@gmail.com.
